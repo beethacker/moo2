@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/moo2/static/css/main.9e66cede.css",
-    "main.js": "/moo2/static/js/main.52aae177.js",
-    "static/js/787.d5df6081.chunk.js": "/moo2/static/js/787.d5df6081.chunk.js",
-    "index.html": "/moo2/index.html",
-    "main.9e66cede.css.map": "/moo2/static/css/main.9e66cede.css.map",
-    "main.52aae177.js.map": "/moo2/static/js/main.52aae177.js.map",
-    "787.d5df6081.chunk.js.map": "/moo2/static/js/787.d5df6081.chunk.js.map"
+    "main.css": "/moo2.cookwithchef.com/static/css/main.9e66cede.css",
+    "main.js": "/moo2.cookwithchef.com/static/js/main.b8ca0457.js",
+    "static/js/787.d5df6081.chunk.js": "/moo2.cookwithchef.com/static/js/787.d5df6081.chunk.js",
+    "index.html": "/moo2.cookwithchef.com/index.html",
+    "main.9e66cede.css.map": "/moo2.cookwithchef.com/static/css/main.9e66cede.css.map",
+    "main.b8ca0457.js.map": "/moo2.cookwithchef.com/static/js/main.b8ca0457.js.map",
+    "787.d5df6081.chunk.js.map": "/moo2.cookwithchef.com/static/js/787.d5df6081.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e66cede.css",
-    "static/js/main.52aae177.js"
+    "static/js/main.b8ca0457.js"
   ]
 }
