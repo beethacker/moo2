@@ -1,0 +1,24 @@
+==TODO==
+* Test layout on phone
+* Put up on cookwithchef! (https://github.com/gitname/react-gh-pages)
+
+==BUGS==
+
+==LATER==
+* Add slot style puzzle option!
+* Pretty image indicators for style type in new game selection
+* Save / load / share puzzles with a URL. 
+
+* Answer checker and mismatch highlighting like the regular moojestic!
+* Cache dictionaries!!??
+
+* Add some additional "screens" that we can navigate to
+* Top banner to select some different games
+
+* Continous play mode
+* Get a hint (i.e add an extra clue in)
+
+
+
+== References? ==
+Hosting on github pages: https://github.com/gitname/react-gh-pages
